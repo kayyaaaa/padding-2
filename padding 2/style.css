@@ -1,0 +1,51 @@
+body{
+    border: 1px solid #B4B4B4;
+    background: #FFF;
+    width: 550px;
+    height: 550px;
+    flex-shrink: 0;
+    padding-top:96px ;
+    padding-left:119px ;
+    margin-top: 16px;
+    margin-left: 15px;
+}
+.h1{
+    color: #000;
+    font-family: Roboto;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    width: 313px;
+    height: 22px;
+    flex-shrink: 0;  
+}
+.p{
+    color: #808080;
+    font-family: Roboto;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    width: 313px;
+    height: 84px;
+    flex-shrink: 0;
+}
+.img{
+    width: 305px;
+    height: 226px;
+    flex-shrink: 0;
+    
+    
+}
+.href{
+    color: #00E;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-decoration-line: underline;
+    text-transform: capitalize;
+    
+}
